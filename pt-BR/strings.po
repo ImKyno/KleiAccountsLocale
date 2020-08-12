@@ -19,7 +19,7 @@ msgstr ""
 
 #. i18n: keyword: Email
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 #. i18n: keyword: Loading
 msgid "Loading…"
@@ -27,7 +27,7 @@ msgstr "Carregando…"
 
 #. i18n: keyword: Search
 msgid "Search"
-msgstr ""
+msgstr "Procurar"
 
 #. i18n: keyword: Select
 msgid "Select"
@@ -71,7 +71,7 @@ msgstr "Jogos"
 
 #. i18n: keyword: Betas
 msgid "Betas"
-msgstr ""
+msgstr "Betas"
 
 #. i18n: keyword: Language
 msgid "Language"
@@ -659,15 +659,15 @@ msgstr "Servidores Don't Starve Together"
 
 #. i18n: keyword: DontStarveTogetherInventory
 msgid "Don’t Starve Together Items Inventory"
-msgstr ""
+msgstr "Inventário de Items de Don't Starve Together"
 
 #. i18n: keyword: ItemsInventorySearchTips
 msgid "<b>Search Tips:</b> Type one or more words to search an item in your game inventory. If you want to find an item called <b>Wilson Red Hat</b> you can either type <b>Wilson</b>, or <b>Hat</b>, or even <b>Wilson Hat</b>. The order of the search terms matters, this means you will find no results for the query \"Hat Wilson\" because the words are in different order. <b>Press Return</b> to submit the search. Delete the search terms and press Return again to reset the filters."
-msgstr ""
+msgstr "<b>Procurar Dicas:</b> Digite uma ou mais palavras para procurar um item em seu iventário de jogo. Se você quiser achar um item chamado <b>Wilson Red Hat</b> você pode digitar <b>Wilson</b>, ou <b>Hat</b>, ou até mesmo <b>Wilson Hat</b>. A ordem dos termos importa na pesquisa, isso quer dizer que você não irá encontrar resultados para \"Hat Wilson\" porque as palavras foram escritas em ordens diferentes. <b>Pressione Retornar</b> para concluir a pesquisa. Delete os termos e pressione retornar novamente para resetar os filtros."
 
 #. i18n: keyword: E_UNAVAILABLE_GAME_INVENTORY
 msgid "The game you selected does not have items. Please make sure you have selected Don't Starve Together."
-msgstr ""
+msgstr "O jogo que você selecionou não possui itens. Por favor tenha certeza que você selecionou Don't Starve Together."
 
 #. i18n: keyword: PlayerInfo
 msgid "Player Info"
@@ -783,7 +783,7 @@ msgstr "Senha do Servidor"
 
 #. i18n: keyword: ItemsInventoryTitle
 msgid "Your Items Inventory"
-msgstr ""
+msgstr "Seu Inventário de Itens"
 
 #. i18n: keyword: DownloadSettings
 msgid "Download Settings"
@@ -875,7 +875,7 @@ msgstr "pontos"
 
 #. i18n: keyword: RewardBoltsAbbreviation
 msgid "bolts"
-msgstr ""
+msgstr "parafusos"
 
 #. i18n: keyword: RewardSpoolsAbbreviation
 msgid "spools"
@@ -1659,117 +1659,117 @@ msgstr "Nós sentimos muito essa recompensa não está mais ativa. Por favor sig
 
 #. i18n: keyword: UserTransactions
 msgid "User Transactions"
-msgstr ""
+msgstr "Transações do Usuário"
 
 #. i18n: keyword: UserTransactionsDescription
 msgid "All (relevant) transactions associated to your account are listed below in descending order (newest transactions at the top, oldest transactions at the bottom). Notice the time of the transaction is based on the web server timezone, you may need to adjust the numbers to match your computer clock."
-msgstr ""
+msgstr "Todas (relevantes) transações associadas a sua conta estão listadas a baixo em ordem decrescente. (Transações mais novas no topo, transações mais velhas no fim). Note que o tempo de uma transação é baseada no horário do servidor, você talvez precise ajustar o horário para acompanhar o de seu computador."
 
 #. i18n: keyword: PlatformName
 msgid "Platform Name"
-msgstr ""
+msgstr "Nome da Plataforma"
 
 #. i18n: keyword: CurrentBalanceForSpools
 msgid "Current Spools Balance"
-msgstr ""
+msgstr "Saldo Atual de Carretéis"
 
 #. i18n: keyword: CurrentBalanceForPoints
 msgid "Current Points Balance"
-msgstr ""
+msgstr "Saldo Atual de Pontos"
 
 #. i18n: keyword: NewBalance
 msgid "New Balance:"
-msgstr ""
+msgstr "Novo Saldo:"
 
 #. i18n: keyword: TXN_NOT_SUPPORTED
 msgid "Transaction Not Supported"
-msgstr ""
+msgstr "Transação não suportada"
 
 #. i18n: keyword: TXN_CREATE_AN_ITEM
 msgid "Create An Item"
-msgstr ""
+msgstr "Criar Um Item"
 
 #. i18n: keyword: TXN_LINK_FOR_SPOOLS
 msgid "Link For Spools"
-msgstr ""
+msgstr "Link Para Carretéis"
 
 #. i18n: keyword: TXN_LINK_FOR_POINTS
 msgid "Link For Points"
-msgstr ""
+msgstr "Link Para Pontos"
 
 #. i18n: keyword: TXN_QUEST_FOR_SPOOLS
 msgid "Quest For Spools"
-msgstr ""
+msgstr "Missão de Carretéis"
 
 #. i18n: keyword: TXN_QUEST_FOR_POINTS
 msgid "Quest For Points"
-msgstr ""
+msgstr "Missão de Pontos"
 
 #. i18n: keyword: TXN_QUEST_FOR_BOLTS
 msgid "Quest For Bolts"
-msgstr ""
+msgstr "Missão de Parafusos"
 
 #. i18n: keyword: TXN_SPOOLS_FOR_ITEM
 msgid "Spools For Item"
-msgstr ""
+msgstr "Carretéis Para um Item"
 
 #. i18n: keyword: TXN_POINTS_FOR_ITEM
 msgid "Points For Item"
-msgstr ""
+msgstr "Pontos Para um Item"
 
 #. i18n: keyword: TXN_BOLTS_FOR_ITEM
 msgid "Bolts For Item"
-msgstr ""
+msgstr "Parafusos Para um Item"
 
 #. i18n: keyword: TXN_REFUND_PURCHASE
 msgid "Refund Purchase"
-msgstr ""
+msgstr "Reembolsar Compra"
 
 #. i18n: keyword: TXN_MARKET_LIST_ITEM
 msgid "Market List Item"
-msgstr ""
+msgstr "Listar Item no Mercado"
 
 #. i18n: keyword: TXN_MARKET_PURCHASE
 msgid "Market Purchase"
-msgstr ""
+msgstr "Compra no Mercado"
 
 #. i18n: keyword: TXN_MARKET_ROLLBACK
 msgid "Market Rollback"
-msgstr ""
+msgstr "Reembolsar no Mercado"
 
 #. i18n: keyword: TXN_ITEM_TRADE_LOSE
 msgid "Item Trade Lose"
-msgstr ""
+msgstr "Troca de Item Perdida"
 
 #. i18n: keyword: TXN_ITEM_FOR_SPOOLS
 msgid "Item For Spools"
-msgstr ""
+msgstr "Item Para Carretéis"
 
 #. i18n: keyword: TXN_ITEM_FOR_POINTS
 msgid "Item For Points"
-msgstr ""
+msgstr "Item Para Pontos"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM
 msgid "Steam Box"
-msgstr ""
+msgstr "Caixa Steam"
 
 #. i18n: keyword: TXN_PURCHASEBOX_TENCENT
 msgid "Tencent Games Box"
-msgstr ""
+msgstr "Caixa Tencent Games"
 
 #. i18n: keyword: TXN_PURCHASEBOX_CURRENCY
 msgid "Currency Box"
-msgstr ""
+msgstr "Caixa de Moedas"
 
 #. i18n: keyword: TXN_PURCHASEBOX_STEAM_SKINDLC
 msgid "Steam Box DLC"
-msgstr ""
+msgstr "Caixa Steam de DLC"
 
 #. i18n: keyword: Marketable
 msgid "Marketable"
-msgstr ""
+msgstr "Comercializável"
 
 #. i18n: keyword: Tradeable
 msgid "Tradeable"
-msgstr ""
+msgstr "Trocável"
 
